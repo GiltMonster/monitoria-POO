@@ -42,7 +42,7 @@ public class Pessoa {
     // Retorna uma string com as informações da pessoa
     @Override
     public String toString() {
-        return "Pessoa{" +
+        return "\n Pessoa: {" +
                 "nome='" + nome + '\'' +
                 ", sobrenome='" + sobrenome + '\'' +
                 ", idade=" + idade +
