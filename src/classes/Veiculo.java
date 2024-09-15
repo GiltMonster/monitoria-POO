@@ -21,6 +21,10 @@ public class Veiculo {
         System.out.println("Acelerando...");
     }
 
+    public void frear() {
+        System.out.println("Freando...");
+    }
+
     // Metodo que simula o veiculo freando
     @Override
     public String toString() {
